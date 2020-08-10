@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="hdfs">
+    <CLASSES>
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/commons-cli-1.2.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/commons-codec-1.4.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/commons-collections-3.2.2.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/commons-configuration-1.6.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/commons-io-2.4.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/commons-lang-2.6.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/commons-logging-1.1.3.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/guava-11.0.2.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/hadoop-auth-2.7.5.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/hadoop-common-2.7.5.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/hadoop-hdfs-2.7.5.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/hadoop-nfs-2.7.5.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/htrace-core-3.1.0-incubating.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/httpclient-4.2.5.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/httpcore-4.2.5.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/log4j-1.2.17.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/log4j-to-slf4j-2.12.1.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/protobuf-java-2.5.0.jar!/" />
+      <root url="jar://D:/DevENV2015/DevENV/DLL/x64/Program/java/lib/hdfs/slf4j-api-1.7.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
